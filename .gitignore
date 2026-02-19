@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+backend/venv/
+backend/data/
+backend/models/piper/*.onnx
+backend/models/piper/*.onnx.json
+backend/models/whisper/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Env
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/

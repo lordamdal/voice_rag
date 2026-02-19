@@ -210,4 +210,4 @@ voice_rag/
 
 ## License
 
-All rights reserved.
+MIT License — see [LICENSE](LICENSE) for details.

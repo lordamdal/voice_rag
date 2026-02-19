@@ -2,6 +2,8 @@
 
 A lightweight, fully local voice assistant with real-time streaming and document retrieval. Upload PDFs or text files, then talk to your documents using natural voice or text. The system reads pages verbatim on request and answers questions using retrieved context — all running on consumer hardware without cloud dependencies.
 
+![Voice RAG screenshot](image.png)
+
 ## Features
 
 - **Real-time voice conversation** with streaming sentence-by-sentence TTS

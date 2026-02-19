@@ -18,3 +18,6 @@ frontend/dist/
 # IDE
 .vscode/
 .idea/
+
+# Plan files
+*_PLAN.md
